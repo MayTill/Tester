@@ -1,4 +1,3 @@
-IDI_ICON_LARGE ICON "ICON.ico"
 #include <windows.h>
 
 1 VERSIONINFO
