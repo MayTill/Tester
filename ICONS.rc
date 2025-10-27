@@ -1,25 +1,26 @@
 #include <windows.h>
 
 1 VERSIONINFO
-FILEVERSION 3,0,1,3
-PRODUCTVERSION 3,0,1,3
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
 BEGIN
     BLOCK "StringFileInfo"
     BEGIN
         BLOCK "040904b0"
         BEGIN
-            VALUE "CompanyName", "Robert Michalski\0"
-            VALUE "FileDescription","Tester dysk�w\0"
-            VALUE "FileVersion", "3.0.1.3\0"
-            VALUE "InternalName", "RM\0"
+            VALUE "CompanyName", "MayTill\0"
+            VALUE "FileDescription","Tester dysków\0"
+            VALUE "FileVersion", "1.0.0.0\0"
+            VALUE "InternalName", "TESTER.exe\0"
             VALUE "OriginalFilename", "TESTER.exe\0"
             VALUE "ProductName", "TESTER.exe\0"
-            VALUE "ProductVersion", "3.0.1.3\0"
+            VALUE "ProductVersion", "1.0.0.0\0"
 			VALUE "LegalCopyright", "Copyright (c) 2025 ""MayTill"" AGPLv3"
         END
     END
     BLOCK "VarFileInfo"
     BEGIN
-        VALUE "Translation", 0x0415, 1200  // Kod języka polskiego: 0x0415, dla Unicode
+        VALUE "Translation", 0x0415, 1200  // Kod jÄ™zyka polskiego: 0x0415, dla Unicode
     END
 END
+
