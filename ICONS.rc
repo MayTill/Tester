@@ -15,7 +15,7 @@ BEGIN
             VALUE "OriginalFilename", "TESTER.exe\0"
             VALUE "ProductName", "TESTER.exe\0"
             VALUE "ProductVersion", "1.0.0.0\0"
-			VALUE "LegalCopyright", "Copyright (c) 2025 ""MayTill"" AGPLv3"
+			VALUE "LegalCopyright", "Copyright (c) 2025 ""MayTill"" GPLv3+"
         END
     END
     BLOCK "VarFileInfo"
@@ -23,4 +23,5 @@ BEGIN
         VALUE "Translation", 0x0415, 1200  // Kod jÄ™zyka polskiego: 0x0415, dla Unicode
     END
 END
+
 
