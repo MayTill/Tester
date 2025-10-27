@@ -5,7 +5,7 @@
 #include <atomic>
 #include <iomanip>
 /*
- * Tester, Test your drive speed
+ * Tester 1.0.0 LTS, Test your drive speed
  * Copyright (C) 2025 "MayTill"
  *
  * SPDX-License-Identifier: GPL-3.0-or-later
@@ -182,5 +182,6 @@ int main()
     AlignedFree(buffer);
     return 0;
 }
+
 
 
